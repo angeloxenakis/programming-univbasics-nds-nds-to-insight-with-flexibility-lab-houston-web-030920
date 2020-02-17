@@ -125,5 +125,3 @@ def studios_totals(nds)
   return 
 end
 
-binding.pry
-
